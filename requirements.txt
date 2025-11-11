@@ -1,9 +1,6 @@
-streamlit
+streamlit==1.38.0
 opencv-python-headless==4.8.1.78
-numpy
-pandas
+numpy<2
+tensorflow==2.15.0
+keras==2.15.0
 Pillow
-tensorflow
-torch
-torchvision
-matplotlib
